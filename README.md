@@ -1,4 +1,4 @@
-Zeroth line inserted by chrispsommers.
+Zeroeth line inserted by chrispsommers.
 
 The first line.
 
